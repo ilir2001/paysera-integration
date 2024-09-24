@@ -1,13 +1,13 @@
 {
   "name": "paysera-integration",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "index.js",
   "scripts": {
     "test": "node test/paysera.test.js"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ilir2001/paysera-integration.git"
+    "url": "git+https://github.com/ilir2001/paysera-integration.git"
   },
   "keywords": [],
   "author": "Ilir Mehmeti",
