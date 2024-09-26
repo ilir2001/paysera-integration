@@ -3,7 +3,7 @@
   "version": "1.0.4",
   "main": "lib/paysera.js",
   "scripts": {
-    "test": "node test/paysera.test.js"
+    "test": "jest"
   },
   "repository": {
     "type": "git",
@@ -16,5 +16,8 @@
   "dependencies": {
     "axios": "^1.7.7",
     "dotenv": "^16.4.5"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
