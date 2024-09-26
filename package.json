@@ -1,6 +1,6 @@
 {
   "name": "paysera-integration",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "main": "lib/paysera.js",
   "scripts": {
     "test": "jest"
