@@ -5,4 +5,4 @@ This package provides a simple and secure way to integrate the Paysera payment g
 ## Installation
 
 ```bash
-npm install paysera-nodejs
+npm install paysera-integration
